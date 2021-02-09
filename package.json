@@ -1,0 +1,19 @@
+{
+  "name": "com.archnet.designpattern.objectpooling",
+  "version": "1.0.0",
+  "displayName": "Arch Net Design Pattern Object Pooling",
+  "description": "Design Pattern Object Pooling.",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Extension",
+    "DesignPattern",
+    "ObjectPooling"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}
